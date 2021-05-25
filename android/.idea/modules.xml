@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Messenger.iml" filepath="$PROJECT_DIR$/.idea/modules/Messenger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Messenger.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Messenger.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-960234604/Messenger.expo-av.iml" filepath="$PROJECT_DIR$/.idea/modules/-960234604/Messenger.expo-av.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-224843004/Messenger.expo-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/-224843004/Messenger.expo-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-756060699/Messenger.expo-facebook.iml" filepath="$PROJECT_DIR$/.idea/modules/-756060699/Messenger.expo-facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1423197094/Messenger.expo-firebase-core.iml" filepath="$PROJECT_DIR$/.idea/modules/1423197094/Messenger.expo-firebase-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1971965596/Messenger.expo-image-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/-1971965596/Messenger.expo-image-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1669374241/Messenger.expo-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1669374241/Messenger.expo-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1079173320/Messenger.expo-localization.iml" filepath="$PROJECT_DIR$/.idea/modules/-1079173320/Messenger.expo-localization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/373101524/Messenger.expo-location.iml" filepath="$PROJECT_DIR$/.idea/modules/373101524/Messenger.expo-location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1092568240/Messenger.react-native-appearance.iml" filepath="$PROJECT_DIR$/.idea/modules/1092568240/Messenger.react-native-appearance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/835331902/Messenger.react-native-autogrow-textinput.iml" filepath="$PROJECT_DIR$/.idea/modules/835331902/Messenger.react-native-autogrow-textinput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1006775087/Messenger.react-native-callkeep.iml" filepath="$PROJECT_DIR$/.idea/modules/1006775087/Messenger.react-native-callkeep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/12192377/Messenger.react-native-community_art.iml" filepath="$PROJECT_DIR$/.idea/modules/12192377/Messenger.react-native-community_art.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/203954624/Messenger.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/203954624/Messenger.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-909544164/Messenger.react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-909544164/Messenger.react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1842288451/Messenger.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1842288451/Messenger.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1986111435/Messenger.react-native-community_slider.iml" filepath="$PROJECT_DIR$/.idea/modules/1986111435/Messenger.react-native-community_slider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1744711865/Messenger.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/1744711865/Messenger.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1597390090/Messenger.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/-1597390090/Messenger.react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1766348689/Messenger.react-native-ffmpeg.iml" filepath="$PROJECT_DIR$/.idea/modules/1766348689/Messenger.react-native-ffmpeg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/519894045/Messenger.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/519894045/Messenger.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1810078484/Messenger.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1810078484/Messenger.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1556084992/Messenger.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/1556084992/Messenger.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-793868614/Messenger.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-793868614/Messenger.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1810213079/Messenger.react-native-get-random-values.iml" filepath="$PROJECT_DIR$/.idea/modules/-1810213079/Messenger.react-native-get-random-values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-783134483/Messenger.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-783134483/Messenger.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1103859008/Messenger.react-native-image-resizer.iml" filepath="$PROJECT_DIR$/.idea/modules/-1103859008/Messenger.react-native-image-resizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/12012322/Messenger.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/12012322/Messenger.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2047158109/Messenger.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-2047158109/Messenger.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/621484155/Messenger.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/621484155/Messenger.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2070094010/Messenger.react-native-search-bar.iml" filepath="$PROJECT_DIR$/.idea/modules/2070094010/Messenger.react-native-search-bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1289764878/Messenger.react-native-ui-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/1289764878/Messenger.react-native-ui-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1351195484/Messenger.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1351195484/Messenger.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-737722257/Messenger.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/-737722257/Messenger.react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-119573267/Messenger.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-119573267/Messenger.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1691774425/Messenger.unimodules-app-loader.iml" filepath="$PROJECT_DIR$/.idea/modules/1691774425/Messenger.unimodules-app-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2027212029/Messenger.unimodules-barcode-scanner-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-2027212029/Messenger.unimodules-barcode-scanner-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/196405163/Messenger.unimodules-camera-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/196405163/Messenger.unimodules-camera-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-511675487/Messenger.unimodules-constants-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-511675487/Messenger.unimodules-constants-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1423026291/Messenger.unimodules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/1423026291/Messenger.unimodules-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-672464696/Messenger.unimodules-face-detector-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-672464696/Messenger.unimodules-face-detector-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/671164978/Messenger.unimodules-file-system-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/671164978/Messenger.unimodules-file-system-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1669783765/Messenger.unimodules-font-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1669783765/Messenger.unimodules-font-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1948398133/Messenger.unimodules-image-loader-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1948398133/Messenger.unimodules-image-loader-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/489564694/Messenger.unimodules-permissions-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/489564694/Messenger.unimodules-permissions-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1725341307/Messenger.unimodules-react-native-adapter.iml" filepath="$PROJECT_DIR$/.idea/modules/1725341307/Messenger.unimodules-react-native-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/939194699/Messenger.unimodules-sensors-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/939194699/Messenger.unimodules-sensors-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/596800619/Messenger.unimodules-task-manager-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/596800619/Messenger.unimodules-task-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/840609427/host.exp.exponent.Messenger.expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/840609427/host.exp.exponent.Messenger.expo-constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-215116060/host.exp.exponent.Messenger.expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/-215116060/host.exp.exponent.Messenger.expo-file-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/758801352/host.exp.exponent.Messenger.expo-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/758801352/host.exp.exponent.Messenger.expo-permissions.iml" />
+    </modules>
+  </component>
+</project>

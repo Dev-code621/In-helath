@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.arthenica:mobile-ffmpeg-https:4.3.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6fcc45a1201e10a85271d6246cc7dd92/jetified-mobile-ffmpeg-https-4.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6fcc45a1201e10a85271d6246cc7dd92/jetified-mobile-ffmpeg-https-4.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6fcc45a1201e10a85271d6246cc7dd92/jetified-mobile-ffmpeg-https-4.3.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a627576699466690b2f1430b95ae89c/jetified-mobile-ffmpeg-https-4.3.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a627576699466690b2f1430b95ae89c/jetified-mobile-ffmpeg-https-4.3.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a627576699466690b2f1430b95ae89c/jetified-mobile-ffmpeg-https-4.3.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.arthenica/mobile-ffmpeg-https/4.3.1/e9339cbe4750b7d8448f2daba904f5fae6d5b74f/mobile-ffmpeg-https-4.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.arthenica/mobile-ffmpeg-https/4.3.1/bd348ed4e0710970de73a19b70eff9cc56aa1d8e/mobile-ffmpeg-https-4.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
