@@ -1,4 +1,4 @@
-# MessengerApp
+# Health app
 React Native
 
 ## Enable Push Notification
